@@ -1,0 +1,11 @@
+/home/ptxc/chat/target/debug/deps/libsha2-72ca8de41af70203.rmeta: /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/lib.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/core_api.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha256.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha512.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/consts.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha256/soft.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha512/soft.rs
+
+/home/ptxc/chat/target/debug/deps/sha2-72ca8de41af70203.d: /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/lib.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/core_api.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha256.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha512.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/consts.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha256/soft.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha512/soft.rs
+
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/lib.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/core_api.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha256.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha512.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/consts.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha256/soft.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sha2-0.10.8/src/sha512/soft.rs:

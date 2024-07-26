@@ -1,0 +1,1 @@
+/home/ptxc/chat/target/debug/libchat.rlib: /home/ptxc/chat/src/config.rs /home/ptxc/chat/src/handlers/auth.rs /home/ptxc/chat/src/handlers/chat.rs /home/ptxc/chat/src/handlers/messages.rs /home/ptxc/chat/src/handlers/mod.rs /home/ptxc/chat/src/lib.rs

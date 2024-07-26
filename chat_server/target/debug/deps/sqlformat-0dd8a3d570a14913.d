@@ -1,0 +1,10 @@
+/home/ptxc/chat/target/debug/deps/libsqlformat-0dd8a3d570a14913.rmeta: /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/lib.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/formatter.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/indentation.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/inline_block.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/params.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/tokenizer.rs
+
+/home/ptxc/chat/target/debug/deps/sqlformat-0dd8a3d570a14913.d: /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/lib.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/formatter.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/indentation.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/inline_block.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/params.rs /home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/tokenizer.rs
+
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/lib.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/formatter.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/indentation.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/inline_block.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/params.rs:
+/home/ptxc/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/sqlformat-0.2.4/src/tokenizer.rs:
