@@ -28,3 +28,11 @@ Content-Type: application/json
   "email": "alice@acme.org",
   "password": "123456"
 }
+HTTP 200
+[Captures]
+token: jsonpath "$['token']"
+
+### get chat list
+
+GET http://localhost:6688/api/chat
+Authorization: Bearer {{token}}
