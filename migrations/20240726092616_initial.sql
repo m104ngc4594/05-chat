@@ -24,10 +24,10 @@ CREATE TYPE chat_type AS ENUM (
 -- create chat table
 CREATE TABLE IF NOT EXISTS chats (
     id BIGSERIAL PRIMARY KEY,
-    name VARCHAR(128) NOT NULL UNIQUE,
+    name VARCHAR(64),
     type chat_type NOT NULL,
     -- user id list
-    numbers BIGINT[] NOT NULL,
+    members BIGINT[] NOT NULL,
     created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
 );
 
