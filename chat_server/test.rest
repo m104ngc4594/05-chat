@@ -65,3 +65,25 @@ Authorization: Bearer {{token}}
 
 GET http://localhost:6688/api/users
 Authorization: Bearer {{token}}
+
+### upload files
+
+POST http://localhost:6688/api/upload
+Authorization: Bearer {{token}}
+Content-Type: multipart/form-data; boundary=MyBoundary
+
+--MyBoundary
+Content-Disposition: form-data; name="file"; filename="mpv-shot0001.jpg"
+Content-Type: application/octet-stream
+
+< /home/ptxc/图片/mpv-shot0001.jpg
+--MyBoundary
+Content-Disposition: form-data; filename="hello.txt"
+
+hello world
+--MyBoundary--
+
+### get files
+
+GET http://localhost:6688/api/files/1/0bc/788/6234e91f6b81d7caf5f59750c406bef41a.jpg
+Authorization: Bearer {{token}}
