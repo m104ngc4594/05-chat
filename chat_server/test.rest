@@ -87,3 +87,19 @@ hello world
 
 GET http://localhost:6688/api/files/1/0bc/788/6234e91f6b81d7caf5f59750c406bef41a.jpg
 Authorization: Bearer {{token}}
+
+### send a message
+
+POST http://localhost:6688/api/chats/2
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "content": "hello world",
+  "files": []
+}
+
+### get messages
+
+GET http://localhost:6688/api/chats/2/messages?limit=6&last_id=5
+Authorization: Bearer {{token}}
