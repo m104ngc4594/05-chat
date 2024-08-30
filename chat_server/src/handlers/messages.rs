@@ -1,10 +1,11 @@
-use crate::{AppError, AppState, ChatFile, CreateMessage, ListMessages, User};
+use crate::{AppError, AppState, ChatFile, CreateMessage, ListMessages};
 use axum::{
     extract::{Multipart, Path, Query, State},
     http::HeaderMap,
     response::IntoResponse,
     Extension, Json,
 };
+use chat_core::User;
 use tokio::fs;
 use tracing::{info, warn};
 
