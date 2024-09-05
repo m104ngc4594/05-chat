@@ -21,7 +21,7 @@ pub(crate) async fn create_chat_handler(
     Json(input): Json<CreateChat>,
 ) -> Result<impl IntoResponse, AppError> {
     let chat = state.create_chat(input, user.ws_id as _).await?;
-    Ok((StatusCode::OK, Json(chat)))
+    Ok((StatusCode::CREATED, Json(chat)))
 }
 
 pub(crate) async fn get_chat_handler(
